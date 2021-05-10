@@ -2,8 +2,7 @@
 
 
 Getting Started Guide: (~ May 18th:)
-container-base-images (plugin)
-
+* container-base-images (plugin)
 1. Get started with a plugin 
 * playground 
 * seed waggle-plugin
