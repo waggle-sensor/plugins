@@ -26,8 +26,8 @@ container-base-images (plugin)
 
 
 Getting Started Plugin - 
-	plugin-helloworld-ml
-	plugin-test-pipeline
+* plugin-helloworld-ml
+* plugin-test-pipeline
 
 Non-ML Plugins - 
 	plugin-metsense
