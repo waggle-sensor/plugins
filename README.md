@@ -5,9 +5,9 @@ Getting Started Guide:
 container-base-images (plugin)
 
 1. Get started with a plugin 
-	a. playground 
-	b. seed waggle-plugin
-	c. Virtual waggle 
+	* playground 
+	* seed waggle-plugin
+	* Virtual waggle 
 
 ~ 15th June
 2. Profiling your code (JLSE) 
