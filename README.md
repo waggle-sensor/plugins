@@ -25,26 +25,26 @@ container-base-images (plugin)
 6. Commit to ECR
 
 
-Getting Started Plugin - 
+#### Getting Started Plugin - 
 * plugin-helloworld-ml
 * plugin-test-pipeline
 
-Non-ML Plugins - 
-	plugin-metsense
-	plugin-raingauge
+#### Non-ML Plugins - 
+* plugin-metsense
+* plugin-raingauge
 	
-AI/ML,OpenCV Plugins - 
-	plugin-cloudcover
-	plugin-carped
-	plugin-irradiance
-	plugin-motion-detector
-	...
-	plugin-arm-weather-...
+#### AI/ML,OpenCV Plugins - 
+* plugin-cloudcover
+* plugin-carped
+* Plugin-irradiance
+* plugin-motion-detector
+* ...
+* plugin-arm-weather-...
 	
-Data Collection/Samplers - 
-	plugin-image-sampler
-	plugin-audio-sampler
-        LiDAR? 
-	Rad/Nuc?
-	Weather-data Sampler
-	plugin-images-ai-sampler
+#### Data Collection/Samplers - 
+* plugin-image-sampler
+* plugin-audio-sampler
+* LiDAR? 
+* Rad/Nuc?
+* Weather-data Sampler
+* plugin-images-ai-sampler
