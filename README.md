@@ -1,29 +1,18 @@
 # plugins
 
-~ May 18th:
-Getting Started Guide: 
+
+Getting Started Guide: (~ May 18th:)
 container-base-images (plugin)
 
 1. Get started with a plugin 
-	* playground 
-	* seed waggle-plugin
-	* Virtual waggle 
-
-~ 15th June
-2. Profiling your code (JLSE) 
-
-~ 21sth June
-3. Iterate until 
-
-~ 10th July
-4. Create code with meta-data 
-
-~ 10th July
-5. ECR submission / JLSE etc 
-
-~ 15th July
-6. Commit to ECR
-
+* playground 
+* seed waggle-plugin
+* Virtual waggle 
+2. Profiling your code (JLSE) (~ 15th June)
+3. Iterate until (~ 21sth June)
+4. Create code with meta-data (~ 10th July)
+5. ECR submission / JLSE etc (~ 10th July)
+6. Commit to ECR (~ 15th July)
 
 #### Getting Started Plugin - 
 * plugin-helloworld-ml
