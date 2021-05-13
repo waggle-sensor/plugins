@@ -28,6 +28,7 @@ Getting Started Guide: (~ May 18th:)
 * plugin-motion-detector
 * ...
 * plugin-arm-weather-...
+* [app-birdcall-detector](https://github.com/waggle-sensor/app_birdcall_detector)
 	
 #### Data Collection/Samplers - 
 * plugin-image-sampler
